@@ -1,0 +1,1 @@
+A Language for Process Specification (ALPS) is a model and data exchange language developed by the National Institute of Standards and Technology in the early 1990s to capture and communicate process plans developed in the discrete and process manufacturing industries. ==References== * Category:Computer languages
