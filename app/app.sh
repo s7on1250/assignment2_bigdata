@@ -19,10 +19,10 @@ venv-pack -o .venv.tar.gz
 python3 app.py
 
 # Collect data
-#bash prepare_data.sh
+bash prepare_data.sh
 
 # Run the indexer
-#bash index.sh
+bash index.sh
 
 # Run the ranker
 bash search.sh "history"
